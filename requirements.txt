@@ -49,7 +49,7 @@ SQLAlchemy==1.0.11
 Twisted==16.0.0
 ubuntuone-client-data==14.4
 unity-lens-photos==1.0
-urllib3==1.13.1
+urllib3==1.26.5
 virtualenv==15.0.3
 Werkzeug==0.11.11
 zope.interface==4.1.3
